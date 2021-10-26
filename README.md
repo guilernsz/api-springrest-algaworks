@@ -2,7 +2,7 @@
 
 
 
-Nesse imersivo foi trabalhado uma REST API de Vendas com cadastro de clientes, status de entrega/venda, ocorrências, tratamento de exceções.
+Nesse imersivo foi trabalhado uma REST API de Vendas com cadastro de clientes, status de entrega/venda, ocorrências, tratamento de exceções e etc.
 
 
 
